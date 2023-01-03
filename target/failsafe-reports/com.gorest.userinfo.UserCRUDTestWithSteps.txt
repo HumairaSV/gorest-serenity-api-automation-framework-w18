@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.gorest.userinfo.UserCRUDTestWithSteps
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.29 sec - in com.gorest.userinfo.UserCRUDTestWithSteps

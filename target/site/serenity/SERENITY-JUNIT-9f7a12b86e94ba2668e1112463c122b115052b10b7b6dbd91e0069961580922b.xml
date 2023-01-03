@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.gorest.userinfo.UserCRUDTestWithSteps" skipped="0" tests="1" time="5.17" timestamp="2023-01-02T14:03:58.508Z[Europe/London]"><testcase classname="com.gorest.userinfo.UserCRUDTestWithSteps" name="T1 - This will create a new user"/></testsuite>
